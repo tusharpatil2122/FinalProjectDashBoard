@@ -1,0 +1,12 @@
+.nav{
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    background-color: royalblue;
+    align-items: center;
+    padding-top: 50px;
+    width:300px
+}
+.nav button{
+    width: 200px;
+}
